@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+    background-repeat: no-repeat;
+    background: #70a2dc url(images/bg.png) no-repeat center bottom/cover;
+    color: black;
+    height: 100vh;
+}
+    

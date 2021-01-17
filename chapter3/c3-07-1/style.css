@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+    background-color: #fee;
+}
+h1 {
+    color: #0bd;
+    background-color: #faa;
+}
+h2 {
+    color: navy;
+}
+p {
+    color: rgba(10, 129, 165, 0.466);
+}
+#line-height1{
+    line-height: 1;
+    text-align: left;
+    
+}
+#line-height17{
+    line-height: 1.7;
+    text-align: justify;
+}
+#line-height25{
+    line-height: 2.5;
+    font-family: 'Potta One', cursive;
+}

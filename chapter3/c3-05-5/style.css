@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#line-height1{
+    line-height: 1;
+    text-align: left;
+}
+#line-height17{
+    line-height: 1.7;
+    text-align: justify;
+}
+#line-height25{
+    line-height: 2.5;
+    font-family: 'Potta One', cursive;
+}
